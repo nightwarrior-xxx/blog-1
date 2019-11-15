@@ -1,5 +1,5 @@
 ---
-title: "MY EXPERIENCE WITH THE HACKTOBERFEST"
+title: "My Experience with the Hacktoberfest"
 date: "2019-10-28T18:11:40+05:30"
 ---
 
